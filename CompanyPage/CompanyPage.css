@@ -1,0 +1,12 @@
+
+.column {
+  float: center;
+  width: 100%;
+  margin: 30px;
+}
+
+/* Clearfix (clear floats) */
+.row {
+  content: "";
+  clear: both;
+  display: table;
